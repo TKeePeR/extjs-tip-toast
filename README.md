@@ -26,6 +26,5 @@ options: {
 ```
 
 ## TODO
-
-[ ] Put everything into a, ExtJS package
-[ ] Code improvements
+- [ ] Put everything into a, ExtJS package
+- [ ] Code improvements
