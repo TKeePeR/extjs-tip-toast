@@ -1,4 +1,4 @@
-# ExtJS-tip-toast
+# ExtJS-Tip-Toast
 Tooltip class (alert), kind of Android'Toast/Temporary slide-in-slide-out message
 
 ## Introduction
