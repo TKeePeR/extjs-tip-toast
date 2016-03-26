@@ -12,13 +12,13 @@ __2 Files:__
 ## Usage
 GLC.tip.toast(title, message, options)
 with:
-`
+'''
 options: {
   delay: int  => delay in ms (default: 1000)
   remove: true/false => remove the toast (default: true)
   cls: string => toast class (default : ""); could be success, info, warning, danger
 }
-`
+'''
 ## TODO
-* Put everything into a, ExtJS package
-* Code improvements
+[ ] Put everything into a, ExtJS package
+[ ] Code improvements
