@@ -6,6 +6,7 @@ This class was inspired by Sencha Ext.example.msg (see their examples), BootStra
 It display a message (with a title) sliding in from top of the screen, then sliding out.
 The additional styles (warning, info, danger, success) come directly from Bootstrap 3.4.x (@see getbootstrap.com)
 
+## Implementation
 __2 Files:__
 - GLC.tip.js  the javascript clas
 - tip.scss    the class file
@@ -15,7 +16,7 @@ __2 Files:__
 ```javascript
 GLC.tip.toast(title, message, options)
 ```
-with=
+with:
 ```javascript
 options: {
   delay: 1000  // delay in ms (default: 1000)
